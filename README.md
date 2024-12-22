@@ -5,15 +5,15 @@ Bookri app is a digital platform for managing the traditional Kuri savings syste
 ### **What is Kuri?**
 *Kuri* (or *Chitti*) is a traditional group savings system practiced in Kerala, India. It operates as follows:
 
-<img src="images/sample/writing.jpg" alt="Writing" width="200">
+<img src="images/writing.jpg" alt="Writing" width="200">
 
 **A group of people come together to contribute a fixed amount of money at regular intervals (e.g., monthly).**
 
-<img src="images/sample/draw_happening.jpg" alt="Draw Happening" width="200">
+<img src="images/draw_happening.jpg" alt="Draw Happening" width="200">
 
 **Each month, the pooled amount is awarded to one member, determined through a random draw.**
 
-<img src="images/sample/draw_winner.jpg" alt="Winner with Amount" width="200">
+<img src="images/draw_winner.jpg" alt="Winner with Amount" width="200">
 
 **This continues until every member has received the pooled amount once, and the system concludes.**
 
